@@ -9,7 +9,7 @@ RAM: 2/4 GB
 
 kernel: 4.9.253-tegra-aarch64
 
-changelog
+----- feature -----
 
 add ov2311 mono format driver
 
